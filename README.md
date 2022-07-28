@@ -1,1 +1,1 @@
-# homework
+# Lara's solution to homework assignment from Insight Global's Client. 

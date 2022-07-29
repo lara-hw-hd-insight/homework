@@ -1,11 +1,11 @@
-# we'll need self links on gcp subnets (of default VPC) for the regions
+# we'll need self links on gcp subnets (of default VPC)
 data "google_compute_subnetwork" "us-east1" {
   name   = "default"
-  region = "us-east1"
+  region = var.regions[0]
 }
 data "google_compute_subnetwork" "us-central1" {
   name   = "default"
-  region = "us-central1"
+  region = var.regions[1]
 }
 
 

@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"infra","Source":"../..","Dir":"../.."},{"Key":"infra.vm_instance1","Source":"./modules/instance","Dir":"../../modules/instance"},{"Key":"infra.vm_instance2","Source":"./modules/instance","Dir":"../../modules/instance"},{"Key":"infra.vm_instances","Source":"./modules/instance","Dir":"../../modules/instance"}]}
